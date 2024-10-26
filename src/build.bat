@@ -1,4 +1,4 @@
 @echo off
 pushd ..\build\
-cl keylogger.cpp
+cl ..\src\keylogger.cpp
 popd
